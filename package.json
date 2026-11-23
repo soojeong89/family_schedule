@@ -1,0 +1,7 @@
+{
+  "name": "family-schedule",
+  "private": true,
+  "scripts": {
+    "build": "npx --yes staticrypt@3.5.4 src/index.html -d . --short --remember 30 --template-title \"가족 시간표\" --template-instructions \"가족 비밀번호를 입력하세요\" --template-placeholder \"비밀번호\" --template-button \"열기\" --template-remember \"30일 동안 기억하기\" --template-error \"비밀번호가 맞지 않아요\" --template-color-primary \"#1a1c20\" --template-color-secondary \"#f7f8f9\""
+  }
+}
