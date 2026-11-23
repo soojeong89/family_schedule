@@ -3,3 +3,5 @@ src/
 # 비밀번호 파일
 .env
 node_modules/
+# 예전 원본 파일명 — 암호화 전 내용이라 절대 올리지 않음
+family-schedule.html
